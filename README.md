@@ -21,7 +21,7 @@
    ```bash
    pip install -r requirements.txt
 
-2. Download Thai GGUF Model (e.g., OpenThaiGPT) and place it in the folder.
+2. Download Thai GGUF Model (e.g., OpenThaiGPT) and place it in the folder. 
 3.Run the system: python testSystemBuddha.py
 
 💼 สนใจจ้างงาน / ปรึกษา / ซื้อ Source Code (Contact Me)
